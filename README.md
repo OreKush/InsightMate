@@ -14,9 +14,10 @@ Traditional personas are often vague or stereotype-driven. InsightMate solves th
 ---
 
 ## Demo
+- **Project Report:** 
 - **Video Walkthrough (90s):**   
 - **Clickable Figma Prototype:** (https://www.figma.com/design/lLSsI6fuMtslfSNo7Y5nj3/InsightMate?node-id=0-1&t=Jdpojx7IrYEq6HTT-1)  
-- **Screenshots:** See `InsightMate_UI_Screenshots`  
+- **Screenshots:** See `docs/InsightMate_UI_Screenshots`  
 
 ---
 
