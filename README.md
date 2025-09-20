@@ -62,11 +62,6 @@ Full pipeline in `InsightMate_Backend/InsightMate.ipynb`
 	•	All datasets are synthetic/mock for demonstration purposes.
 ---
 
-## License
-
-MIT — open for review and experimentation.
----
-
 ## Hiring Note
 
 I’m seeking a sponsored role in Data-Driven Design / AI UX.
