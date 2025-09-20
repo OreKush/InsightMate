@@ -39,6 +39,41 @@ Full pipeline in `InsightMate_Backend/InsightMate.ipynb`
 
 ---
 
+## Architecture
+	•	Ingest → Preprocess → Cluster → Summarise → Persona Formatting → Export → UI
+---
+
+## Implemented
+	•	K-Means clustering & persona generation pipeline
+	•	Figma prototype demonstrating UI and flows
+	•	Transparency features: tooltips, summary cards, confidence levels
+	•	Poster, client presentation, and final report included
+---
+
+## Roadmap
+	•	Lightweight Streamlit demo for live persona previews
+	•	Evaluation metrics dashboard (silhouette scores, prompt evaluation)
+	•	RAG Smart Mode for real-time external data integration
+	•	Analyst Mode with weighting controls for advanced users
+---
+
+## Privacy
+	•	No real user data included.
+	•	All datasets are synthetic/mock for demonstration purposes.
+---
+
+## License
+
+MIT — open for review and experimentation.
+---
+
+## Hiring Note
+
+I’m seeking a sponsored role in Data-Driven Design / AI UX.
+InsightMate demonstrates my end-to-end capability: research → ML pipeline → UX design.
+Let’s connect: oreoluwakushimo@gmail.com • LinkedIn: https://www.linkedin.com/in/oreoluwakushimo/
+
+
 ## Quickstart
 ```bash
 # 1) Setup environment
@@ -65,33 +100,3 @@ InsightMate/
 │   └─ InsightMate_UI_Screenshots/
 └─ demo/
     └─ demo.mp4
-
-Architecture
-	•	Ingest → Preprocess → Cluster → Summarise → Persona Formatting → Export → UI
-
- Implemented
-	•	K-Means clustering & persona generation pipeline
-	•	Figma prototype demonstrating UI and flows
-	•	Transparency features: tooltips, summary cards, confidence levels
-	•	Poster, client presentation, and final report included
-
- Roadmap
-	•	Lightweight Streamlit demo for live persona previews
-	•	Evaluation metrics dashboard (silhouette scores, prompt evaluation)
-	•	RAG Smart Mode for real-time external data integration
-	•	Analyst Mode with weighting controls for advanced users
-
-
-Privacy
-	•	No real user data included.
-	•	All datasets are synthetic/mock for demonstration purposes.
-
-License
-
-MIT — open for review and experimentation.
-
-Hiring Note
-
-I’m seeking a sponsored role in Data-Driven Design / AI UX.
-InsightMate demonstrates my end-to-end capability: research → ML pipeline → UX design.
-Let’s connect: oreoluwakushimo@gmail.com • LinkedIn: https://www.linkedin.com/in/oreoluwakushimo/
