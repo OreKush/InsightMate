@@ -63,11 +63,8 @@ Full pipeline in `InsightMate_Backend/InsightMate.ipynb`
 	•	All datasets are synthetic/mock for demonstration purposes.
 ---
 
-## Hiring Note
-
-I’m seeking a sponsored role in Data-Driven Design / AI UX.
-InsightMate demonstrates my end-to-end capability: research → ML pipeline → UX design.
-Let’s connect: oreoluwakushimo@gmail.com • LinkedIn: https://www.linkedin.com/in/oreoluwakushimo/
+## Let’s connect 
+• LinkedIn: https://www.linkedin.com/in/oreoluwakushimo/
 
 
 ## Quickstart
